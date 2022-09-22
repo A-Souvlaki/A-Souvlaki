@@ -1,12 +1,16 @@
-## print(" hi there \\o/ ") <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+### Hi there 👋, my name is Christian, but in this world, I am Souvlaki
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--D8ScgYZE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/jxx4zedqe3hkoysugr5j.jpg)
 
-<img align="left" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
+Just a guy that loves computers, pizza and music
 
-<p></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><em> System's engineer at <a href="https://www.icesi.edu.co/es/">ICESI</em></p>
-<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="30vw"/> <em> computer science student</em></p>
-<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/enthusiast.gif?raw=1" width="35vw"/> <em>design enthusiast</em></p>
-<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/happy.gif?raw=1" width="25vw"/> <em> in love with science, tech, math & art</em></p>
-<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/coin.gif?raw=1" width="20vw"/> <em> platform games player</em></p>
-<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/nyancat.gif?raw=1" width="45vw"/> <em> colorful post-it notes lover</em></p>
+Skills: REACT / JS / HTML / CSS/ SpringBoot/ NODE JS/ JAVA
 
-⭐️ From [Souvlaki](https://github.com/A-Souvlaki)
+- 🔭 I’m currently working on Web Development 
+- 🌱 I’m currently learning Kotlin 
+- 😄 Pronouns: Him/They 
+- ⚡ Fun fact: I love dinosaurs 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ccrivadeneira//)  
+
+
